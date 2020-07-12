@@ -1,0 +1,17 @@
+{
+  "name": "style-template",
+  "version": "1.0.1",
+  "authors": [
+    "Hoang Minh <hoangminhhuet@gmail.com>"
+  ],
+  "description": "Style template project 1",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hoangminhuet99/style-template.git",
+  "ignore": [
+    "README.md"
+  ]
+}
